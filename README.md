@@ -26,4 +26,13 @@ Projects and Certifications
 
 [Build a Tribute Page (Certification Project)](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set2/Build%20a%20Tribute%20Page%20(Certification%20Project))
 
+##
+
+[Build a Balance Sheet](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set3/Build%20a%20Balance%20Sheet)
+
+[Build a Picasso Painting](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set3/Build%20a%20Picasso%20Painting)
+
+[Build a Piano](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set3/Build%20a%20Piano)
+
+[Build a Technical Documentation Page (Certification Project)](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set3/Build%20a%20Technical%20Documentation%20Page%20(Certification%20Project))
 
