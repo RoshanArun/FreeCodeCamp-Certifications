@@ -36,3 +36,10 @@ Projects and Certifications
 
 [Build a Technical Documentation Page (Certification Project)](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set3/Build%20a%20Technical%20Documentation%20Page%20(Certification%20Project))
 
+##
+
+[Build a City Skyline](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set4/Build%20a%20City%20Skyline)
+
+[Build a Magazine](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set4/Build%20a%20Magazine)
+
+[Build a Product Landing Page (Certification  Project)](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set4/Build%20a%20Product%20Landing%20Page)
