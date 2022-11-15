@@ -1,0 +1,88 @@
+form {
+    width: 60vw;
+      max-width: 550px;
+      min-width: 300px;
+      margin: 0 auto;
+    background-color: #1b1b32;
+  }
+  
+  h1, p{
+    text-align: center;
+    color: white;
+  }
+  
+  h1{
+      margin-top: 30px;
+  }
+  
+  p{
+    margin-top: -10px;
+    margin-bottom: 30px;
+  }
+  
+  label{
+    display: block;
+    margin: .5rem 0;
+    margin-left: 25px;
+    color: white;
+    margin-top: 20px;
+  }
+  
+  .label{
+    display: block;
+    margin: .5rem 0;
+    margin-left: 25px;
+    color: white;
+    margin-top: 10px;
+  }
+  
+  input,
+  textarea, select {
+    margin: 10px 0 0 0;
+      width: 95%;
+    min-height: 2em;
+  }
+  
+  input, select{
+    padding-left: 10px;
+  }
+  
+  option{
+    margin-right: 30px;
+  }
+  
+  .inline {
+    width: unset;
+    margin: -10 0.5em -10 0;
+    vertical-align: middle;
+  }
+  
+  .checkbox{
+    width: unset;
+    vertical-align: middle;
+    margin: -10 0.5em -10 0;
+    line-height: 100%;
+  }
+  
+  .bg {
+    background-image: url("https://wallpaper.dog/large/20513010.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+  }
+  
+  textarea{
+    min-height: 6em;
+  }
+  
+  .button{
+    display: block;
+    width: 90%;
+    margin: 2em auto;
+    font-size: 1.1rem;
+    background-color: green;
+    color: white;
+    border-color: white;
+    min-width: 300px;
+  }
