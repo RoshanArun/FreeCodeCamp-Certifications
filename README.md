@@ -54,4 +54,4 @@ Projects and Certifications
 
 ##
 
-## [View my Responsive Web Design Certification](https://www.freecodecamp.org/certification/RoshanArun/responsive-web-design)
+## [View my Responsive Web Design Certification (300 Hours)](https://www.freecodecamp.org/certification/RoshanArun/responsive-web-design)
