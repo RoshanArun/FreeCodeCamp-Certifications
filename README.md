@@ -16,7 +16,7 @@ Projects and Certifications
 
 ##
 
-[Build a Rothko Painting]([Build a Registration Form](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Build%20a%20Rothko%20Painting)
+[Build a Rothko Painting](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Build%20a%20Rothko%20Painting)
 
 [Build a Photo Gallery](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Build%20a%20Photo%20Gallery)
 
