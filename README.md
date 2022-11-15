@@ -43,3 +43,13 @@ Projects and Certifications
 [Learn CSS Grid by Building a Magazine](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set4/Build%20a%20Magazine)
 
 [Build a Product Landing Page (Certification  Project)](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set4/Build%20a%20Product%20Landing%20Page)
+
+##
+
+[Learn CSS Animation by Building a Ferris Wheel](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set5/Build%20a%20Ferris%20Wheel)
+
+[Learn CSS Tranforms by Building a Penguin](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set5/Build%20a%20Penguin)
+
+[Personal Portfolio Webpage (Certification Project)](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set5/Personal%20Portfolio%20Website)
+
+
