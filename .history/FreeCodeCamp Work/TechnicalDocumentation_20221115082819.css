@@ -1,0 +1,111 @@
+*{
+    font-family: 'Open Sans', Arial, sans-serif;
+  }
+  
+  h1{
+    font-weight: 500;
+    font-size: 1.8em;
+    margin-left: 335px;
+  }
+  
+  article{
+    margin-left: 350px;
+    display: block;
+  }
+  
+  p, li{
+    color: #4d4e53;
+    line-height: 1.5;
+    font-size: 0.96em;
+  }
+  
+  li{
+    line-height: 2.5;
+  }
+  
+  .topspace{
+    padding-top: 15;
+    line-height: 1.5;
+  }
+  
+  code{
+      display: block;
+      color: #4d4e53;
+      margin: 10px;
+      font-size: 0.96em;
+      font-family: monospace;
+      white-space: pre-line;
+      padding-left : 15px;
+  }
+  
+  .space{
+    padding-left : 15px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 15px;
+  }
+  
+  .space2{
+    padding-left : 15px;
+    padding-top: 15px;
+    padding-right: 0px;
+    padding-bottom: 15px;
+  }
+  
+  .padding-top{
+    padding-top: 15px
+  }
+  
+  list-indent{
+    margin-left: 55px;
+    padding-left: 25px;
+  }
+  
+  #navbar{
+    position: fixed;
+    min-width: 290px;
+    top: 0px;
+    left: 0px;
+    width: 300px;
+    height: 100%;
+    border-right: solid;
+    border-color: rgba(0, 22, 22, 0.4);
+  }
+  
+  nav{
+    display: block;
+  
+  }
+  
+  #navbar li{
+    color: #4d4e53;
+    border-top: 1px solid;
+    list-style: none;
+    position: relative;
+    width: 100%;
+    
+  }
+  
+  #navbar header{
+    text-align: center;
+    color: black;
+    margin: 10px;
+    font-size: 1.8em;
+    width: 100%;
+  }
+  
+  #navbar a{
+    display: block;
+    padding: 3px 10px;
+    color: #4d4e53;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
+  
+  @media (max-width: 768px) {
+    #navbar {
+      text-align: left;
+    }
+  }
+  
