@@ -16,14 +16,14 @@ Projects and Certifications
 
 ##
 
-[Build a Rothko Painting](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Build%20a%20Rothko%20Painting)
+[Build a Rothko Painting](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set2/Build%20a%20Rothko%20Painting)
 
-[Build a Photo Gallery](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Build%20a%20Photo%20Gallery)
+[Build a Photo Gallery](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set2/Build%20a%20Photo%20Gallery)
 
-[Build a Nutrition Label](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Build%20a%20Nutrition%20Label)
+[Build a Nutrition Label](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set2/Build%20a%20Nutrition%20Label)
 
-[Build a Quiz](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Build%20a%20Quiz)
+[Build a Quiz](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set2/Build%20a%20Quiz)
 
-[Build a Tribute Page (Certification Project)](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Build%20a%20Tribute%20Page%20(Certification%20Project))
+[Build a Tribute Page (Certification Project)](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set2/Build%20a%20Tribute%20Page%20(Certification%20Project))
 
 
