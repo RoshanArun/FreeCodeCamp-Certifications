@@ -4,9 +4,9 @@ Projects and Certifications
 
 ## 01. Responsive Web Design Certification (300 Hours) 
 
-[Learn HTML by Building a Cat Photo App](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set1/Build%20a%20CatPhotoApp)
+[Learn HTML by Building a Cat Photo App](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Responsive%20Web%20Design/Set1/Build%20a%20CatPhotoApp)
 
-[Learn Basic CSS by Building a Cafe Menu](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set1/Build%20a%20Cafe%20Menu)
+[Learn Basic CSS by Building a Cafe Menu](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Responsive%20Web%20Design/Set1/Build%20a%20Cafe%20Menu)
 
 [Learn CSS Color by Building a Set of Markers](https://github.com/RoshanArun/FreeCodeCamp-Certifications/tree/main/FreeCodeCamp%20Work/Set1/Build%20a%20Set%20of%20Markers)
 
