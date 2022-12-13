@@ -55,3 +55,7 @@ Projects and Certifications
 ##
 
 ## [View my Responsive Web Design Certification (300 Hours)](https://www.freecodecamp.org/certification/RoshanArun/responsive-web-design)
+
+##
+
+## 02. Javascript Algorithsm and Data Structures (300 Hours) 
