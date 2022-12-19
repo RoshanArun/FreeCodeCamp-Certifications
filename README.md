@@ -59,3 +59,13 @@ Projects and Certifications
 ##
 
 ## 02. Javascript Algorithsm and Data Structures (300 Hours) 
+
+[Palindrome Checker](https://github.com/RoshanArun/FreeCodeCamp-Certifications/blob/main/FreeCodeCamp%20Work/Javascript/Java%20Certification%20Projects/palindromeChecker.js)
+
+[Roman Numeral Converter](https://github.com/RoshanArun/FreeCodeCamp-Certifications/blob/main/FreeCodeCamp%20Work/Javascript/Java%20Certification%20Projects/romanNumeralConverter.js)
+
+[Caesars Cipher](https://github.com/RoshanArun/FreeCodeCamp-Certifications/blob/main/FreeCodeCamp%20Work/Javascript/Java%20Certification%20Projects/caesarCipher.js)
+
+[Telephone Number Validator](https://github.com/RoshanArun/FreeCodeCamp-Certifications/blob/main/FreeCodeCamp%20Work/Javascript/Java%20Certification%20Projects/telephoneNumberValidator.js)
+
+[Cash Register]
