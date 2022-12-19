@@ -12,7 +12,7 @@ function telephoneCheck(str) {
         return false;
       }
     }
-
+  
     if(str[y - 1] == ")"){
       return false;
     }
@@ -33,4 +33,5 @@ function telephoneCheck(str) {
   telephoneCheck("0 (757) 622-7382");
   telephoneCheck("2 757 622-7382")
   telephoneCheck("(6054756961)")
+  telephoneCheck("(555)555-5555")
   
