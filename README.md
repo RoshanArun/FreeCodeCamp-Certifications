@@ -68,4 +68,10 @@ Projects and Certifications
 
 [Telephone Number Validator](https://github.com/RoshanArun/FreeCodeCamp-Certifications/blob/main/FreeCodeCamp%20Work/Javascript/Java%20Certification%20Projects/telephoneNumberValidator.js)
 
-[Cash Register]
+[Cash Register](https://github.com/RoshanArun/FreeCodeCamp-Certifications/blob/main/FreeCodeCamp%20Work/Javascript/Java%20Certification%20Projects/telephoneNumberValidator.js)
+
+##
+
+## [View my JavaScript Algorithms and Data Structures Certification (300 Hours)](https://www.freecodecamp.org/certification/RoshanArun/javascript-algorithms-and-data-structures)
+
+##
